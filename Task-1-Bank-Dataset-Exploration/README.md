@@ -1,10 +1,47 @@
 # Task 1 - Bank Dataset Exploration
 
-This project explores the Bank Marketing dataset using Python and Pandas.
+## Objective
+Perform basic data exploration on the Bank Marketing dataset using Python and Pandas to understand its structure, features, and statistical properties.
 
-## Files
+## Dataset
+- **Dataset Name:** Bank Marketing Dataset
+- **Source:** UCI Machine Learning Repository / Kaggle
+- **Records:** *(Automatically determined from the dataset)*
+- **Features:** *(Automatically determined from the dataset)*
 
-- bank.csv
-- task1_bank.py
-- README.md
-- output.png
+## Tools & Libraries
+- Python
+- Pandas
+
+## Tasks Performed
+- Loaded the dataset
+- Explored dataset dimensions
+- Displayed column names
+- Viewed the first five records
+- Checked data types
+- Identified missing values
+- Generated descriptive statistics
+
+## Project Structure
+
+```
+Task-1-Bank-Dataset-Exploration/
+│
+├── bank.csv
+├── task1_bank.py
+├── README.md
+└── screenshots/
+    └── output.png
+```
+
+## Output
+The analysis provides:
+- Dataset overview
+- Number of rows and columns
+- Column information
+- Missing value analysis
+- Statistical summary
+
+## Author
+Sachin Kumar  
+DevelopersHub Data Science & Analytics Internship – Phase 2
